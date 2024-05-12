@@ -7,3 +7,4 @@ XOM would correlate with WTI/Brent prices so it does that. It also does it with 
 ### This source has a lot of types/defines that could've been replaced by 1 set in the API file. If you plan on using this I'd recommend globalizing the types
 
 # This is old code! Uploading because a friend asked for it.
+## I hate this source so much. That's why idc about giving it away. Have fun fr
